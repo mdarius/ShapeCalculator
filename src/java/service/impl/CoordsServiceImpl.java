@@ -1,7 +1,4 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package service.impl;
 
 import dao.CoordsDaoImpl;
@@ -9,10 +6,6 @@ import java.util.List;
 import domain.Coordinates;
 import service.CoordsService;
 
-/**
- *
- * @author Demo
- */
 public class CoordsServiceImpl implements CoordsService {
       
     @Override

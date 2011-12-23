@@ -1,17 +1,10 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package util;
 
 import org.hibernate.cfg.AnnotationConfiguration;
 import org.hibernate.SessionFactory;
 
-/**
- * Hibernate Utility class with a convenient method to get Session Factory object.
- *
- * @author Demo
- */
+
 public class HibernateUtil {
 
     private static final SessionFactory sessionFactory;

@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package dao;
 
 import java.util.List;
@@ -10,10 +6,7 @@ import org.hibernate.Session;
 import org.hibernate.Query;
 import util.HibernateUtil;
 
-/**
- *
- * @author Demo
- */
+
 public class CoordsDaoImpl {
     
    
